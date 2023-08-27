@@ -18,6 +18,11 @@ Simple anime tracker made with Vue and Jinkan API.
 
 <br/>
 
+## Project setup
+```
+npm install
+```
+
 ### Compiles for development
 ```
 npm run dev
@@ -25,5 +30,5 @@ npm run dev
 
 <br/>
 
-## Credits
+## :clap: Acknowledgments
 * Project idea by [Tyler Potts](https://tylerpotts.co.uk/)
